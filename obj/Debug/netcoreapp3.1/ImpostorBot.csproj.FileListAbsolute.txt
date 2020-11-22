@@ -1,0 +1,16 @@
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.csprojAssemblyReference.cache
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.AssemblyInfoInputs.cache
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.AssemblyInfo.cs
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.csproj.CoreCompileInputs.cache
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.exe
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.deps.json
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.runtimeconfig.json
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.runtimeconfig.dev.json
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.dll
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\ImpostorBot.pdb
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kizai\Documents\Code\ImpostorBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.csproj.CopyComplete
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.dll
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.pdb
+C:\Users\kizai\Documents\Code\ImpostorBot\obj\Debug\netcoreapp3.1\ImpostorBot.genruntimeconfig.cache
