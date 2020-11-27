@@ -4962,9 +4962,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/code/Code/ImpostorBot/ImpostorBot.csproj",
-      "projectName": "ImpostorBot",
-      "projectPath": "/home/code/Code/ImpostorBot/ImpostorBot.csproj",
+      "projectUniqueName": "/home/code/Code/ImpostorBot/ImpostorTeleBot.csproj",
+      "projectName": "ImpostorTeleBot",
+      "projectPath": "/home/code/Code/ImpostorBot/ImpostorTeleBot.csproj",
       "packagesPath": "/home/code/.nuget/packages/",
       "outputPath": "/home/code/Code/ImpostorBot/obj/",
       "projectStyle": "PackageReference",

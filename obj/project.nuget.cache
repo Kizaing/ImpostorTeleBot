@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1UcSdLwJlrw0NltmMzgany80hVMMcbRH3SRDpENkYoDlCCrVV0KTT9rNKoPzH3fl1tTRuMycZ/Nqt8xSLZkaw==",
+  "dgSpecHash": "V7SqL5cbvNEfyszAT1BdJqaxUS6tJWPJog0hbZU8rKvUSKLuvsu5qwwePtMN63TtTUmq+8FFTLR2J0AYPRJJFg==",
   "success": true,
-  "projectFilePath": "/home/code/Code/ImpostorBot/ImpostorBot.csproj",
+  "projectFilePath": "/home/code/Code/ImpostorBot/ImpostorTeleBot.csproj",
   "expectedPackageFiles": [
     "/home/code/.nuget/packages/impostor.api/1.2.2-ci.116/impostor.api.1.2.2-ci.116.nupkg.sha512",
     "/home/code/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

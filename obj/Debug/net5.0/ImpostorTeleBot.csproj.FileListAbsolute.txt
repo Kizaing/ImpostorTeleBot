@@ -1,0 +1,12 @@
+/home/code/Code/ImpostorBot/bin/Debug/net5.0/ImpostorTeleBot.deps.json
+/home/code/Code/ImpostorBot/bin/Debug/net5.0/ImpostorTeleBot.dll
+/home/code/Code/ImpostorBot/bin/Debug/net5.0/ref/ImpostorTeleBot.dll
+/home/code/Code/ImpostorBot/bin/Debug/net5.0/ImpostorTeleBot.pdb
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.csprojAssemblyReference.cache
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.GeneratedMSBuildEditorConfig.editorconfig
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.AssemblyInfoInputs.cache
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.AssemblyInfo.cs
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.csproj.CoreCompileInputs.cache
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.dll
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ref/ImpostorTeleBot.dll
+/home/code/Code/ImpostorBot/obj/Debug/net5.0/ImpostorTeleBot.pdb
