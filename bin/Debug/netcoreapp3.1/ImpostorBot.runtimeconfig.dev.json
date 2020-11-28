@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\kizai\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kizai\\.nuget\\packages"
-    ]
-  }
-}
